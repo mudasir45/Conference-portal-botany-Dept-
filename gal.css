@@ -1,0 +1,49 @@
+.large-img{
+    width: 550px;
+    height: 300px;
+}
+.small-img{
+  height: 300px;
+  width: 700px;
+}
+/* .img-hover:hover{
+  filter: brightness(70%);
+  cursor: pointer;
+} */
+
+.img-hover:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* .img-hover:hover {
+  opacity: 0.7;
+} */
+/* .img-hover {
+  border: none;
+}
+.img-hover:hover {
+  border: 2px solid red;
+} */
+
+/* .img-hover:hover {
+  backdrop-filter: blur(3px);
+} */
+
+/* @keyframes example {
+  from {transform: scale(1);}
+  to {transform: scale(1.5);}
+}
+.img-hover:hover {
+  animation-name: example;
+  animation-duration: 1s;
+} */
+
+/* .img-hover:hover {
+  transform: rotate(360deg);
+  transition: transform 1s;
+} */
+
+.sl-img{
+  width: 350px;
+  height: 250px;
+}
